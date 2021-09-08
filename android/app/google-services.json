@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272974296370",
+    "firebase_url": "https://gems-57399.firebaseio.com",
+    "project_id": "gems-57399",
+    "storage_bucket": "gems-57399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272974296370:android:36f49d25c7226e3247932b",
+        "android_client_info": {
+          "package_name": "com.badassdeveloper.gems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272974296370-lr4pgln2fgo3as6o2r97m0mlu9ll61l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-NdaxcQc0biqIuswgN2A9QUF_OblcF78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272974296370-lr4pgln2fgo3as6o2r97m0mlu9ll61l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
